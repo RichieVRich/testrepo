@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestNotifcationApplication</string>
+    <string name="channel_name">Pet Tracker</string>
+    <string name="channel_description">This is used for notifcation</string>
+</resources>
